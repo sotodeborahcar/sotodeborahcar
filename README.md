@@ -4,4 +4,4 @@
 
 
 - Porfolio <a href="https://github.com/sotodeborahcar">Git-Hub</a> o <a href="https://app.netlify.com/teams/sotodeborahcar/overview">netlify.debito</a> 💻 👩‍💻
-- Red personal <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼 💪
+- Red personal <a href="https://www.linkedin.com/in/deborah-carolina-soto-140987/">LinkedIn</a> 💼 💪
